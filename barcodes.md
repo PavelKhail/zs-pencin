@@ -5,10 +5,10 @@
 
 ## 🎯 Cíle hodiny
 - Žák vysvětlí, co je **čárový kód** a proč se používá.  
-- Rozpozná rozdíl mezi **EAN‑13** a **QR kódem**.  
+- Rozpozná rozdíl mezi **EAN-13** a **QR kódem**.  
 - Popíše **cestu informace** od načtení EAN kódu až k zobrazení ceny na pokladně.  
 - Dokáže **vytvořit vlastní QR kód**.  
-- Pochopí význam **kontrolní číslice** u EAN‑13.
+- Pochopí význam **kontrolní číslice** u EAN-13.
 
 ---
 
@@ -38,8 +38,8 @@ Krátká diskuse:
 
 ---
 
-### 2) Mini výklad: Co je EAN‑13 (5 min)
-- EAN‑13 = **13 číslic**, poslední je **kontrolní součet**  
+### 2) Mini výklad: Co je EAN-13 (5 min)
+- EAN-13 = **13 číslic**, poslední je **kontrolní součet**  
 - Kód **neobsahuje cenu ani název výrobku**  
 - Je to pouze **identifikátor**  
 - Čtečka snímá **odraz světla** a převádí čáry na čísla  
