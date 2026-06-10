@@ -1,3 +1,7 @@
+---
+title: Barcodes
+---
+
 # Čárové kódy – jak fungují a k čemu slouží  
 8. ročník • 45 minut • Informatika
 
